@@ -1,0 +1,25 @@
+/* humanstxt.org */
+
+/***= Contributors
+========================================================================*/
+
+/*== Author ============================================================*/
+
+    Developer & Designer: Ali Esmaili
+    Email: AESM85@gmail.com
+    LinkedIn: https://www.linkedin.com/in/SuitAndCape
+    GitHub: https://github.com/AESM
+    Website: https://SuitAndCape.github.io/
+    Twitter: https://twitter.com/SuitAndCape
+    Location: Southern Bay Area
+
+/*== Thanks ============================================================*/
+
+  /*===== NAME Team =====*/
+
+/*== Site Info =========================================================*/
+
+    Last update: 201Y/MM/DD
+    Language: English
+    Components: HTML5, CSS3
+    IDE: Sublime Text 3, Illustrator, Photoshop
