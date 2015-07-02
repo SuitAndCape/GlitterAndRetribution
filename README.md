@@ -9,14 +9,17 @@ This is a default repo.
 
 --------------------------------------------------------------------------
 
-## Table Of Blah Blah
+## Table Of Contents
 
 - [What?](#what)
-- [Table Of Blah Blah](#table-of-blah-blah)
-- [Reasons](#reasons)
-  + [Why?](#why)
-  + [Show Us The Code!](#show-us-the-code)
-    * [Alias](#alias)
+- [Table Of Contents](#table-of-contents)
+- [Install](#install)
+  <!-- + [Package Control](#package-control-recommended) -->
+  + [Manual](#manual)
+- [Setup](#setup)
+  + [Example](#example)
+  <!-- + [Color Schemes Included](#color-schemes-included) -->
+  <!-- + [UI Themes Included](#ui-themes-included) -->
 - [Connect](#connect)
   + [GitHubs](#githubs)
     * [SuitAndCape GitHub](https://github.com/SuitAndCape)
@@ -26,37 +29,53 @@ This is a default repo.
     * [LinkedIn](https://www.linkedin.com/in/SuitAndCape)
     * [Dribbble](https://dribbble.com/SuitAndCape)
     * [Twitter](https://twitter.com/SuitAndCape)
-- [LICENSE](https://github.com/SuitAndCape/AndTheTemplateOfDoom/blob/master/LICENSE)
-- [User Stories, MVP, Specifications, & Pseudocode](https://github.com/SuitAndCape/AndTheTemplateOfDoom/blob/master/Stories_MVP_Specs_Pseudocode.md)
-- [humans.txt](https://github.com/SuitAndCape/AndTheTemplateOfDoom/blob/master/humans.txt)
+- [LICENSE](https://github.com/SuitAndCape/GlitterAndRetribution/blob/master/LICENSE)
+- [User Stories, MVP, Specifications, & Pseudocode](https://github.com/SuitAndCape/GlitterAndRetribution/blob/master/Stories_MVP_Specs_Pseudocode.md)
+- [humans.txt](https://github.com/SuitAndCape/GlitterAndRetribution/blob/master/humans.txt)
 
 --------------------------------------------------------------------------
 
-## Reasons
+## Install
 
->First, a list of reasons why.  Then, the code.
+<!-- ### Package Control (Recommended)
+1. Install the [Sublime Text Package Manager](http://wbond.net/sublime_packages/package_control)
+2. Open the Sublime Text Command Pallet and search for `Package Control: Install Package`
+3. Search for and select `Theme - GlitterAndRetribution` from the package list -->
 
-### Why?
-1. Ease
-  - This makes my life slightly easier
-2. Experience
-  - I wanted to build an alias that could generate default repository files, so I did
-3. Documentation
-  - I love documentation
-    + Obsessed with it
-      * Seriously
+### Manual
+Include manual install instructions
 
-### Show Us The Code!
+--------------------------------------------------------------------------
 
-I created an alias for my `~/.bash_profile` to copy these files over to whichever directory I'm in, generating my default Git repo needs.
+## Setup
 
-#### Alias
-```bash
-## NOTE: must have `AndTheTemplateOfDoom` repo in the `~/Code directory`
-## SOURCE: github.com/SuitAndCape/AndTheTemplateOfDoom
-  ## `gitit` – Create personalized default Git repo setup
-  alias gitit="cp ~/Code/AndTheTemplateOfDoom/README.md $PWD/README.md; cp ~/Code/AndTheTemplateOfDoom/humans.txt $PWD/humans.txt; cp ~/Code/AndTheTemplateOfDoom/Stories_MVP_Specs_Pseudocode.md $PWD/Stories_MVP_Specs_Pseudocode.md; cp ~/Code/AndTheTemplateOfDoom/LICENSE $PWD/LICENSE; cp ~/Code/AndTheTemplateOfDoom/.gitignore $PWD/.gitignore"
+Open the user preferences file, which can be found using the menu item `Sublime Text -> Preferences -> Settings - User` or by clicking `cmd + ,` on a Mac.
+
+Activate the color scheme by adding `"color_scheme": "GaR-SpaceBabe.tmTheme"` to the user preferences file.
+
+Activate the UI theme by adding `"theme": "GaR-Crepusculum.sublime-theme"` to the user preferences file.
+
+### Example
+```json
+{
+  "color_scheme": "GaR-SpaceBabe.tmTheme",
+  "theme": "GaR-Crepusculum.sublime-theme"
+}
 ```
+
+<!-- ### Color Schemes Included
+```json
+{
+  "color_scheme": "GaR-SpaceBabe.tmTheme"
+}
+``` -->
+
+<!-- ### UI Themes Included
+```json
+{
+  "theme": "GaR-Crepusculum.sublime-theme"
+}
+``` -->
 
 --------------------------------------------------------------------------
 
