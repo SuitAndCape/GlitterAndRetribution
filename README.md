@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-Documentation Template
+Glitter And Retribution Theme
 ==========================================================================
 
 ## What?
@@ -19,8 +19,8 @@ This is a default repo.
     * [Alias](#alias)
 - [Connect](#connect)
   + [GitHubs](#githubs)
-    * [Personal GitHub](https://github.com/AESM)
     * [SuitAndCape GitHub](https://github.com/SuitAndCape)
+    * [Personal GitHub](https://github.com/AESM)
   + [Miscellany](#miscellany)
     * [Website](https://SuitAndCape.github.io/)
     * [LinkedIn](https://www.linkedin.com/in/SuitAndCape)
@@ -63,10 +63,10 @@ I created an alias for my `~/.bash_profile` to copy these files over to whicheve
 ## Connect
 
 ### GitHubs
-- **_Personal GitHub_**
-  + https://github.com/AESM
 - **_SuitAndCape GitHub_**
   + https://github.com/SuitAndCape
+- **_Personal GitHub_**
+  + https://github.com/AESM
 
 ### Miscellany
 - **_Website_**

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Ali Esmaili | SuitAndCape</string>
+	<key>name</key>
+	<string>GlitterAndRetribution-SpaceBabe</string>
+	<!-- ?KEEP? START - 01 -->
+	<key>semanticClass</key>
+	<string>theme.glitter_and_retribution.space_babe</string>
+	<!-- ?KEEP? FINISH - 01 -->
+	<key>uuid</key>
+	<string>B8FF47C3-D78E-4B3D-A045-7B515DC10464</string>
+</dict>
+</plist>
