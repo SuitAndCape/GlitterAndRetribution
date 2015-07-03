@@ -57,13 +57,13 @@ Through the earth and sea, may they play on for eternity.
 
 ## Setup
 
-Open the user preferences file, which can be found using the menu item `Sublime Text -> Preferences -> Settings - User` or by clicking `super + ,`.
+Open the user preferences file, which can be found using the menu item `Sublime Text -> Preferences -> Settings - User` or by pressing the `super + ,` keys.
 >- Mac: `⌘ + ,`
 - Windows: `ctrl + ,`
 
-Activate the color scheme by adding `"color_scheme": "GaR-COLOR_SCHEME_NAME.tmTheme"` to the user preferences file.
+Apply a color scheme by adding `"color_scheme": "GaR-COLOR_SCHEME_NAME.tmTheme"` to the user preferences file.
 
-Activate the UI theme by adding `"theme": "GaR-UI_THEME_NAME.sublime-theme"` to the user preferences file.
+Apply a UI theme by adding `"theme": "GaR-UI_THEME_NAME.sublime-theme"` to the user preferences file.
 
 ### Example
 ```json
