@@ -1,25 +1,32 @@
 <!-- README.md -->
 
-Glitter And Retribution Theme
+Glitter and Retribution
 ==========================================================================
 
-## What?
+## Ode To The Banjist
 
-This is a default repo.
+Through the earth and sea, may they play on for eternity.
 
 --------------------------------------------------------------------------
 
 ## Table Of Contents
 
-- [What?](#what)
+- [Title](#glitter-and-retribution)
+- [Ode To The Banjist](#ode-to-the-banjist)
 - [Table Of Contents](#table-of-contents)
-- [Install](#install)
-  <!-- + [Package Control](#package-control-recommended) -->
-  + [Manual](#manual)
+- [Installation](#installation)
+  + **WIP:** [Package Control](#package-control-recommended)
+  + **WIP:** [Manual](#manual)
 - [Setup](#setup)
   + [Example](#example)
-  <!-- + [Color Schemes Included](#color-schemes-included) -->
-  <!-- + [UI Themes Included](#ui-themes-included) -->
+- [Package Contents](#package-contents)
+  + [Color Schemes Included](#color-schemes-included)
+    * [Color Schemes In Progress](#color-schemes-in-progress)
+  + [UI Themes Included](#ui-themes-included)
+    * [UI Themes In Progress](#ui-themes-in-progress)
+  + [Upcoming Pieces](#upcoming-pieces)
+    * [Potential Color Scheme Titles](#potential-color-scheme-titles)
+    * [Potential UI Theme Titles](#potential-ui-theme-titles)
 - [Connect](#connect)
   + [GitHubs](#githubs)
     * [SuitAndCape GitHub](https://github.com/SuitAndCape)
@@ -35,49 +42,77 @@ This is a default repo.
 
 --------------------------------------------------------------------------
 
-## Install
+## Installation
 
-<!-- ### Package Control (Recommended)
-1. Install the [Sublime Text Package Manager](http://wbond.net/sublime_packages/package_control)
+### Package Control (Recommended)
+**WIP:** Not yet submitted to [PackageControl.io](https://packagecontrol.io/).
+<!-- 1. Install the [Sublime Text Package Manager](http://wbond.net/sublime_packages/package_control)
 2. Open the Sublime Text Command Pallet and search for `Package Control: Install Package`
 3. Search for and select `Theme - GlitterAndRetribution` from the package list -->
 
 ### Manual
-Include manual install instructions
+**WIP:** Include manual install instructions
 
 --------------------------------------------------------------------------
 
 ## Setup
 
-Open the user preferences file, which can be found using the menu item `Sublime Text -> Preferences -> Settings - User` or by clicking `cmd + ,` on a Mac.
+Open the user preferences file, which can be found using the menu item `Sublime Text -> Preferences -> Settings - User` or by clicking `super + ,`.
+>- Mac: `⌘ + ,`
+- Windows: `ctrl + ,`
 
-Activate the color scheme by adding `"color_scheme": "GaR-SpaceBabe.tmTheme"` to the user preferences file.
+Activate the color scheme by adding `"color_scheme": "GaR-COLOR_SCHEME_NAME.tmTheme"` to the user preferences file.
 
-Activate the UI theme by adding `"theme": "GaR-Crepusculum.sublime-theme"` to the user preferences file.
+Activate the UI theme by adding `"theme": "GaR-UI_THEME_NAME.sublime-theme"` to the user preferences file.
 
 ### Example
 ```json
 {
   "color_scheme": "GaR-SpaceBabe.tmTheme",
-  "theme": "GaR-Crepusculum.sublime-theme"
+  "theme": "GaR-Nox.sublime-theme"
 }
 ```
 
-<!-- ### Color Schemes Included
+Save the file then restart Sublime Text to ensure everything is working properly.
+
+--------------------------------------------------------------------------
+
+## Package Contents
+
+### Color Schemes Included
+
+#### Color Schemes In Progress
 ```json
 {
   "color_scheme": "GaR-SpaceBabe.tmTheme"
 }
-``` -->
+```
 
-<!-- ### UI Themes Included
+### UI Themes Included
+
+#### UI Themes In Progress
 ```json
 {
-  "theme": "GaR-Crepusculum.sublime-theme"
+  "theme": "GaR-Nox.sublime-theme"
 }
-``` -->
+```
+
+### Upcoming Pieces
+
+#### Potential Color Scheme Titles
+- ExponentialOcelots
+- ProfessionalTempuraCombat
+- LimerickAkimbo
+- DinosaurChapstick
+- WeaponizedGrandma
+
+#### Potential UI Theme Titles
+- (day)
+- Crepusculum (dusk)
+- Diluculo (dawn)
 
 --------------------------------------------------------------------------
+
 
 ## Connect
 
